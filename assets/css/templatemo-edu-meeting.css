@@ -199,34 +199,6 @@ body {
   color: #fff;
 }
 
-.tm-section-pad-top {
-  padding-top: 135px;/* 135 default*/
-}
-.tm-section-pad-topmin {
-  padding-top: 10px;/* 135 default*/
-}
-
-.tm-text-primary {
-  color: #3496d8;
-}
-
-.tm-font-big {
-  font-size: 1.25rem;
-}
-
-.tm-btn-primary {
-  color: white;
-  background-color: #3496d8;
-  padding: 14px 35px;
-  border-radius: 30px;
-}
-
-.tm-btn-primary:hover,
-.tm-btn-primary:focus {
-  color: white;
-  background-color: #73c1f6;
-}
-
 
 /* 
 ---------------------------------------------
@@ -323,7 +295,6 @@ header
   display: inline-block;
   margin-top: 0px;
 }
-
 .background-header .main-nav .logo {
   background-image: url(../images/Village.png);
   width: 164px;
@@ -440,7 +411,6 @@ header
   font-weight: 400;
   border-bottom: 0px solid #eee;
 }
-
 .header-area .main-nav .nav li.has-sub ul li a:hover {
   background: rgb(2, 46, 15);
   color: #f5a425!important;
