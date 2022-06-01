@@ -38,10 +38,13 @@ a:focus {
 }
 
 .tm-section-pad-top {
-  padding-top: 135px;/* 135 default*/
+  padding-top: 235px;/* 135 default*/
 }
 .tm-section-pad-topmin {
   padding-top: 10px;/* 135 default*/
+}
+.tm-section-pad-med {
+  padding-top: 135px;/* 135 default*/
 }
 
 .tm-text-primary {
@@ -453,8 +456,8 @@ figure.effect-honey:hover h2 i {
 
 /* Contact */
 
-#contact {
-  color: white;
+#contact2222 {
+  color: rgb(238, 16, 16);
   background-image: url(../img/bg-largered.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -506,18 +509,18 @@ figure.effect-honey:hover h2 i {
 
 ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: white;
+  color: rgb(7 120 80)white;
   opacity: 1; /* Firefox */
 }
 
 :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
-  color: white;
+  color: rgb(7 120 80)white;
 }
 
 ::-ms-input-placeholder {
   /* Microsoft Edge */
-  color: white;
+  color: rgb(7 120 80)white;
 }
 
 .tm-btn-submit {
