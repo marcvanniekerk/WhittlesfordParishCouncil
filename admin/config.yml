@@ -3,6 +3,8 @@ backend:
   repo: marcvanniekerk/WhittlesfordParishCouncil
   branch: cmstest
   site_domain: beamish-madeleine-e32b7d.netlify.com
+  site_url: https://marcvanniekerk.github.io/WhittlesfordParishCouncil/
+  display_url: https://marcvanniekerk.github.io/WhittlesfordParishCouncil/
 
 media_folder: "assets/images/"
 
