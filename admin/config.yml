@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: marcvanniekerk.github.io
+  repo: marcvanniekerk/WhittlesfordParishCouncil
   branch: master
   site_domain: beamish-madeleine-e32b7d.netlify.com
 
